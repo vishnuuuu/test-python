@@ -4,4 +4,5 @@ reviews:
 
 instructions:
   - "When reviewing Python files, suggest secure connection code using environment variables."
-  - "Prefer parameterized queries and best practices.Please give me some sample code"
+  - "Prefer parameterized queries and best practices."
+
